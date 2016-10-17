@@ -1,5 +1,7 @@
-# 제조사별 제공하는 단말기 목록
+## Common > Mobile Test > Device List
 
+
+# 제조사별 제공하는 단말기 목록
 
 ## 1. SAMSUNG
 | 이름 | 모델명 | 제조사 | 보유 수량 |
