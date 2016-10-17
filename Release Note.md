@@ -3,11 +3,11 @@
 ### 2016.10.20
 #### 기능 개선/변경
 * 신규 단말기 추가
-  * Galaxy S7 시리즈
-  * Nexus 5P(N버전), 6X(N버전)
-  * I'm Back
-  * LG G5
-  * LG X 시리즈
+    * Galaxy S7 시리즈
+    * Nexus 5P(N버전), 6X(N버전)
+    * I'm Back
+    * LG G5
+    * LG X 시리즈
 * 안드로이드 Nougat 지원
 
 #### 버그 수정
