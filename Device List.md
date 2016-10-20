@@ -11,7 +11,7 @@
 | Galaxy Note | SHV-E160S | SAMSUNG | 1개 |
 | Galaxy S3 | SHV-E210S | SAMSUNG | 4개 |
 | Galaxy Note 2 | SHV-E250S | SAMSUNG | 3개 |
-| Galaxy S4| SHV-E300S | SAMSUNG | 3개 |
+| Galaxy S4| SHV-E300S | SAMSUNG | 2개 |
 | Galaxy S3 3G | SHW-M440S | SAMSUNG | 1개 |
 | Galaxy A5 | SM-A500L | SAMSUNG | 1개 |
 | Galaxy A7 | SM-A700K | SAMSUNG | 1개 |
