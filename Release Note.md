@@ -1,11 +1,15 @@
 ## Common > Mobile Test > Release Note
 
+### 2016.11.01
+#### 버그 수정
+* 단말기를 점유하고 있을 경우, 콘솔에서 상품 이용 종료가 되지 않은 버그 수정
+
 ### 2016.10.20
 #### 기능 개선/변경
 * 신규 단말기 추가
     * Galaxy S7 시리즈
     * Nexus 5P(N버전), 6X(N버전)
-    * I'm Back
+    * I'm Backㅜ
     * LG G5
     * LG X 시리즈
 * 안드로이드 Nougat 지원
