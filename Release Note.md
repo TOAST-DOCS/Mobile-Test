@@ -9,7 +9,7 @@
 * 신규 단말기 추가
     * Galaxy S7 시리즈
     * Nexus 5P(N버전), 6X(N버전)
-    * I'm Backㅜ
+    * I'm Back
     * LG G5
     * LG X 시리즈
 * 안드로이드 Nougat 지원
