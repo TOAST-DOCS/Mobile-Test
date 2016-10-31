@@ -1,4 +1,4 @@
-## Common > Mobile Test > Release Note
+## Common > Mobile Test > Release Notes
 
 ### 2016.11.01
 #### 버그 수정
