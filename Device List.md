@@ -77,7 +77,7 @@
 | MI 3 | MI 3W | XIAOMI | 1개 |
 
 
-## SHARP
+## 5. SHARP
 | 이름 | 모델명 | 제조사 | 보유 수량 |
 | --- | --- | --- | --- |
 | AQUOS ZETA | SH-01G | SHARP | 1개 |
@@ -85,20 +85,20 @@
 | AQUOS Cristal | 305SH | SHARP | 1개 |
 
 
-## FUJITSU
+## 6. FUJITSU
 | 이름 | 모델명 | 제조사 | 보유 수량 |
 | --- | --- | --- | --- |
 | ARROWS NX | F-01F | FUJITSU | 1개 |
 
 
-## 5. HUAWEI
+## 7. HUAWEI
 | 이름 | 모델명 | 제조사 | 보유 수량 |
 | --- | --- | --- | --- |
 | Nexus 6P | Nexus 6P | HUAWEI | 2개 |
 | HONOR 3C | HONOR H30-L02 | HUAWEI | 1개 |
 
 
-## 6. SONY
+## 8. SONY
 | 이름 | 모델명 | 제조사 | 보유 수량 |
 | --- | --- | --- | --- |
 | Xperia A | SO-04E | SONY | 1개 |
@@ -106,13 +106,13 @@
 | Xperia Z4 | SO-03G | SONY | 1개 |
 
 
-## 7. ASUS
+## 9. ASUS
 | 이름 | 모델명 | 제조사 | 보유 수량 |
 | --- | --- | --- | --- |
 | NEXUS 7(2013) | NEXUS 7 | ASUS | 1개 |
 
 
-## TG앤컴퍼니
+## 10. TG앤컴퍼니
 | 이름 | 모델명 | 제조사 | 보유 수량 |
 | --- | --- | --- | --- |
 | LUNA | TG-L800S | TG앤컴퍼니 | 1개 |
