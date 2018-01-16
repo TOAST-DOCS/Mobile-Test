@@ -1,5 +1,4 @@
-## Common > Mobile Test > Device List
-
+## Mobile Service > Mobile Test > Device List
 
 # 제조사별 제공하는 단말기 목록
 
