@@ -10,11 +10,6 @@
 
 Mobile Test는 다음과 같은 순서로 사용합니다.
 
-### 서비스 활성화
-
-Console에 [Game] > [Mobile Test]를 선택한 후 [상품이용]버튼을 클릭하여 서비스를 활성화 시킵니다.
-
-![](http://static.toastoven.net/prod_mobiletest/img_02.png)
 
 ### 단말기 목록 및 사용하기
 
