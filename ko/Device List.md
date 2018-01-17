@@ -1,4 +1,4 @@
-## Mobile Service > Mobile Test > Device List
+## Mobile Service > Mobile Test > 단말기 목록
 
 # 제조사별 제공하는 단말기 목록
 
@@ -40,7 +40,7 @@
 | Nexus 4 | Nexus 4 | LG | 1개 |
 | Nexus 5 | Nexus 5 | LG | 1개 |
 | Nexus 5X | Nexus 5X | LG | 2개 |
-| Optimus G | LG-F180 | LG | 2개 |
+| Optimus G | LG-F180 | LG | 1개 |
 | Optimus G Pro | LG-F240 | LG | 4개 |
 | Optimus G Pro 2 | LG-F350 | LG | 1개 |
 | Optimus LTE 2 | LG-F160 | LG | 1개 |
@@ -64,10 +64,9 @@
 
 | 이름 | 모델명 | 제조사 | 보유 수량 |
 | --- | --- | --- | --- |
-| Vega LTE | IM-A800 | PANTECH | 1개 |
 | Vega LTE M | IM-A810 | PANTECH | 1개 |
 | Vega No 6 | IM-A860 | PANTECH | 1개 |
-| IM 100 | IM-100 | PANTECH | 2개 |
+| IM 100 | IM-100 | PANTECH | 1개 |
 
 
 ## 4. XIAOMI
