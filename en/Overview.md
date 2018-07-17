@@ -1,4 +1,4 @@
-## Mobile Service > Mobile Test > Overview
+## Mobile Service > Mobile Test > 개요
 
 Mobile Test는 전세계의 다양한 단말기들을 구매 없이 필요한 시간 만큼 단말기를 대여하고 사용한 만큼 비용을 지불하는 서비스입니다. 기존의 다른 서비스와 달리 설치나 설정 없이 사용자가 웹 브라우저의 버튼을 클릭하는 것 만으로 서비스를 이용할 수 있습니다. 실시간으로 단말을 조작할 수 있으며, 단말의 상태 정보도 확인할 수 있습니다.
 
@@ -26,4 +26,4 @@ Mobile Test는 전세계의 다양한 단말기들을 구매 없이 필요한 �
 * 스크린샷 캡쳐로 원하는 화면 저장
 * LogCat을 이용한 실시간 로그 모니터링 지원
 * 단말기 제조사별 다양한 단말기 보유
-    * 제공하는 단말기 목록은 [단말기 리스트](/Common/Mobile%20Test/ko/Device%20List/)에서 확인 가능합니다.  
+    * 제공하는 단말기 목록은 [단말기 리스트](/Mobile%20Service/Mobile%20Test/ko/device-list/)에서 확인 가능합니다.  
